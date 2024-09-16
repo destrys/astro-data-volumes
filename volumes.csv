@@ -1,7 +1,7 @@
 title, archive, volume_current(TB), volume_2028(TB), volume_growth(TB/yr), type, location, reference, contact, notes
 ALMA,,,,,,,,,
 ASKAP,,,,,,,,,
-Argus,,,,,,,,,
+Argus,,,,,,,https://arxiv.org/pdf/2207.14304,,4.3 PB per night raw?
 CADC,,,,,,,,,
 CDS,,,,,,,,,
 DESI,,,,,,,,,
