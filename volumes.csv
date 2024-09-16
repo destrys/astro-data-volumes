@@ -1,4 +1,4 @@
-title, archive, volume_current(TB), volume_2028(TB), volume_growth(TB), type, location, reference, contact, notes
+title, archive, volume_current(TB), volume_2028(TB), volume_growth(TB/yr), type, location, reference, contact, notes
 ALMA,,,,,,,,,
 ASKAP,,,,,,,,,
 Argus,,,,,,,,,
@@ -22,7 +22,7 @@ NOIRLab AstroDataArchive, , 2400, , 250, pixel, Tucson AZ USA, , S. McManus, 85%
 NRAO,,,,,,,,,
 PanSTARRS,,,,,,,,,
 Roman,,,,,,,,,
-Rubin/LSST,,,,,,,,,
+Rubin/LSST,,0,40000?,18000,pixel catalog,SLAC,https://dmtn-135.lsst.io/v/2.0/index.html,,
 SDSS,,,,,,,,,
 SIMBAD,,,,,,,,,
 SKA,,,,,,,,,
