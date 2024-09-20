@@ -12,19 +12,22 @@ ESDC,,941,,,,,https://www.cosmos.esa.int/web/esdc,,
 ESO,,?,,160,,,https://www.eso.org/public/science/archive/,,Raw Data Value
 EVRYSCOPE,,25,?,5,lightcurves,,https://iopscience.iop.org/article/10.1088/1538-3873/ab19d0/pdf,,As of 2019. 5x for raw data. Is it still running?
 Euclid,ESDC,,,,,,,,
-GAIA,ESDC,,,,,,,,
+GAIA,ESDC - MAST,,,,,,,,
 Gemini,NOIRLab,,,,,,,,
 HEASARC,,86,,,,,https://heasarc.gsfc.nasa.gov/docs/heasarc/datadist.html,,As of 2017
+HST,ESDC - MAST,,,,,,,,
 IPAC,,,,,,,,,
-Keck,,,,,,,,,
+JWST,CADC - ESDC - MAST,,,,,,,,
+Keck,IPAC?,,,,,,,,
 LOFAR,,,,,,,,,
 MAST,,,,,,,,,
 NOIRLab, ,2400, , 250,pixel,Tucson AZ USA, ,S. McManus,AtroDataArchive - 85% of data is decam
 NRAO,,4500,6500,,raw,,,S. Witz,Raw data - 
-PanSTARRS,,,,,,,,,
-Roman,,,,,,,,,
+PanSTARRS,MAST,,,,,,,,
+Roman,MAST,,,,,,,,
 Rubin/LSST,,0,40000?,18000,pixel catalog,SLAC,https://dmtn-135.lsst.io/v/2.0/index.html,,
 SDSS,,,,,,,,,
 SKA,,,,,,,,,
+TESS,MAST,,,,,,,,
 ZTF,,,,,,,,,
 
