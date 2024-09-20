@@ -9,12 +9,12 @@ DKIST,,,,3000,pixel?,,https://ui.adsabs.harvard.edu/abs/2022tess.conf11904D/abst
 DSA-2000,,0,500,250,pixel pulsar?,,https://arxiv.org/pdf/1907.07648, , 
 Decam,NOIRLab,,,,,,,,
 ESDC,,941,,,,,https://www.cosmos.esa.int/web/esdc,,
-ESO,,,,,,,,,
+ESO,,?,,160,,,https://www.eso.org/public/science/archive/,,Raw Data Value
 EVRYSCOPE,,25,?,5,lightcurves,,https://iopscience.iop.org/article/10.1088/1538-3873/ab19d0/pdf,,As of 2019. 5x for raw data. Is it still running?
 Euclid,ESDC,,,,,,,,
 GAIA,ESDC,,,,,,,,
-Gemini,,,,,,,,,
-Goddard,,,,,,,,,
+Gemini,NOIRLab,,,,,,,,
+HEASARC,,86,,,,,https://heasarc.gsfc.nasa.gov/docs/heasarc/datadist.html,,As of 2017
 IPAC,,,,,,,,,
 Keck,,,,,,,,,
 LOFAR,,,,,,,,,
