@@ -26,8 +26,8 @@ NRAO,,4500,6500,,raw,,,S. Witz,Raw data -
 PanSTARRS,MAST,,,,,,,,
 Roman,MAST,,,,,,,,
 Rubin/LSST,,0,40000?,18000,pixel catalog,SLAC,https://dmtn-135.lsst.io/v/2.0/index.html,,
-SDSS,,,,,,,,,
+SDSS,,600,,,,,https://www.sdss4.org/dr17/data_access/volume/,,
 SKA,,,,,,,,,
 TESS,MAST,,,,,,,,
-ZTF,,,,,,,,,
+ZTF,IPAC,,,1000,,,https://web.ipac.caltech.edu/staff/fmasci/ztf/masci_uw_04.05.pdf,,
 
