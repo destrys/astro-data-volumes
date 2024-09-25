@@ -13,7 +13,7 @@ ESO,,?,,160,,,https://www.eso.org/public/science/archive/,,Raw Data Value
 EVRYSCOPE,,25,?,5,lightcurves,,https://iopscience.iop.org/article/10.1088/1538-3873/ab19d0/pdf,,As of 2019. 5x for raw data. Is it still running?
 Euclid,ESDC,,,,,,,,
 GAIA,ESDC - MAST,,,,,,,,
-Gemini,NOIRLab,,,,,,,,
+Gemini,,64,,,,,,,Raw Volume - does not store reduced data
 HEASARC,,86,,,,,https://heasarc.gsfc.nasa.gov/docs/heasarc/datadist.html,,As of 2017
 HST,ESDC - MAST,,,,,,,,
 IPAC,,,,,,,,,
