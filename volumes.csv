@@ -15,12 +15,12 @@ Euclid,ESDC,,,,,,,,
 GAIA,ESDC - MAST,,,,,,,,
 Gemini,,64,,,,,,,Raw Volume - does not store reduced data
 HEASARC,,86,,,,,https://heasarc.gsfc.nasa.gov/docs/heasarc/datadist.html,,As of 2017
-HST,ESDC - MAST,,,,,,,,
+HST,ESDC - MAST,450,,,,,,,
 IPAC,,,,,,,,,
 JWST,CADC - ESDC - MAST,,,,,,,,
 Keck,IPAC?,,,,,,,,
 LOFAR,,,,,,,,,
-MAST,,4300,,,,,,,Raw Total
+MAST,,4300,,,,,,,Raw Total - 306TB in HLSP
 NOIRLab, ,2400, , 250,pixel,Tucson AZ USA, ,S. McManus,AtroDataArchive - 85% of data is decam
 NRAO,,4500,6500,,raw,,,S. Witz,Raw data - 
 PanSTARRS,MAST,,,,,,,,
@@ -28,6 +28,6 @@ Roman,MAST,,,,,,,,
 Rubin/LSST,,0,40000?,18000,pixel catalog,SLAC,https://dmtn-135.lsst.io/v/2.0/index.html,,
 SDSS,,600,,,,,https://www.sdss4.org/dr17/data_access/volume/,,
 SKA,,,,,,,,,
-TESS,MAST,,,,,,,,
+TESS,MAST,320,,,,,,,
 ZTF,IPAC,,,1000,,,https://web.ipac.caltech.edu/staff/fmasci/ztf/masci_uw_04.05.pdf,,
 
